@@ -19,6 +19,6 @@
     <img width="30px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" /> 
     <img width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" /> 
     <img width="30px" src="https://media.vlpt.us/images/ajrfyd/post/9b7c546e-624f-4438-94e8-166593e074a0/2074081.jpeg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
   </kbd>
 </p>
