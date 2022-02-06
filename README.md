@@ -1,5 +1,5 @@
 ### Hi there 👋
-### <h2> Im Edgardo Ariel Sotelo, a Full Stack Web Developer</3>
+### <h2> Im Edgardo Ariel Sotelo, a Full Stack Web Developer </h3>
 ### <h3> Looking for work </h2>
 
 - 🔭 I’m currently working on my personal and final project to get certification for Full Stack Web Developer :)
