@@ -14,11 +14,15 @@
     <kbd>Skills</kbd>
     <br>
     <br>
-    <img width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-ar21.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-ar21.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />
     <img width="30px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" /> 
     <img width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" /> 
-    <img width="30px" src="https://media.vlpt.us/images/ajrfyd/post/9b7c546e-624f-4438-94e8-166593e074a0/2074081.jpeg" /> 
     <img width="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   </kbd>
 </p>
+https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg
