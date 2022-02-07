@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on a great company
 - 🤔 I’m looking for help with my english fluent
 - 💬 Ask me about back end things
-- 📫 How to reach me: https://www.linkedin.com/in/edgardo-ariel-sotelo/
+- 📫 How to reach me: https://www.linkedin.com/in/edgardo-ariel-sotelo/  ----> 📩 arielsoda14@gmail.com
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -30,5 +30,4 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
   </kbd>
 </p>
-###                                           You can reach me at 👇🏼
 
