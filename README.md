@@ -31,9 +31,4 @@
   </kbd>
 </p>
 ###                                           You can reach me at 👇🏼
-<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Silvio%20Marquez-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/https://www.linkedin.com/in/edgardo-ariel-sotelo/)](https://www.linkedin.com/in/edgardo-ariel-sotelo/)[![GitHub followers](https://img.shields.io/github/followers/sivi922?label=Follow&style=social)](https://github.com/sivi922/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-silviomarqz-blue?style=social&logo=Instagram&link=https://www.instagram.com/silviomarqz/)](https://www.instagram.com/silviomarqz/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=sivi922.visitor-badge)](https://github.com/sivi922) 
-
- </div>
